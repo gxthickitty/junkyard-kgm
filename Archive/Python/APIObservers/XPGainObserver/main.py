@@ -130,7 +130,7 @@ async def monitor_profile(cfg, state):
                     xp,
                     color
                 )
-                mention = f"<@{cfg['mention_id']}>" if abs(xp - state["xp"]) > 5000 else None
+                mention = f"<@{cfg['mention_id']}>" if abs(xp - state["xp"]) > 500 else None
                 post(cfg["webhook"], embed, mention)
                 state["xp"] = xp
                 loops_left = GAIN_LOOPS
