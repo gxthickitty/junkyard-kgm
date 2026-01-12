@@ -1,0 +1,9 @@
+{
+    "webhook": "https://discord.com/api/webhooks/XXXXX/YYYYY",
+    "mention_id": "mention_discordUserID_on_large_xp_gain",
+    "profiles": [
+      { "id": "668064310" },
+      { "id": "123456789" }
+    ]
+  }
+  
