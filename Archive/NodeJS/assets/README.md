@@ -5,6 +5,8 @@ The script supports both the production (`static`) and development (`dev`) envir
 
 This tool is intended for inspection, archival, or research purposes where access is permitted.
 
+> [!WARNING]
+> As of 26th January 2026, the `dev.kogstatic` is no longer an accessible endpoint.
 ---
 
 ## Features
