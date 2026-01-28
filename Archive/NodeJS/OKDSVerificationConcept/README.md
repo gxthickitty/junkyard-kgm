@@ -1,4 +1,3 @@
-n
 
 Add the following to your `config.json`:
 ```json
